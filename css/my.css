@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.hello{
+    background: rgba(0, 0, 0, 0.558);
+}
+
+.loginbutton:hover{
+   scale: 1.1;
+   font-size: 12px;
+    }
+
+    .borderdiv{
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    }
+    .outerscalediv:hover .scalediv{
+        font-size: 50px;
+
+    }
+
+   
+
+  
+
+ 
